@@ -112,18 +112,7 @@ During runtime, the video should look similar to below.
 
 ### 2.3 Folder Structure
 ```
-assignment8                           # main project folder
-├── Exploration                       # exploration work perform on Day 1
-│   ├── bounding_box
-│   │   ├── team2_caffe_boundary.py
-│   │   ├── team2_haar_boundary.py
-│   ├── camera_interface
-│   │   ├── yuyang_er.ipynb
-│   ├── facial_recognition
-│       ├── Recognition.rar
-├── notebooks
-│   ├── #5_gender.ipnb                # jupyter notebook for gender model
-│   ├── #6_emotion.ipynb              # jupyter notebook for emotion model
+Facial_Judgement                           # main project folder
 ├── src
 │   ├── app.py                        # main application file
 │   ├── app_flask.py                  # main flask web application
