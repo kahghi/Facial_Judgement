@@ -186,12 +186,12 @@ Deployment packages
 
 ### 3.2 Usage 
 #### 3.2.1 Running Unit Tests
-Check that you are at the **root folder**, i.e. assignment8, before running the following command:
+Check that you are at the **root folder**, i.e. Facial_Judgement, before running the following command:
 ```
 pytest ./tests
 ```
 #### 3.2.2 Running the app
-Check that you are at the **root folder**, i.e. assignment8, before running the following command:
+Check that you are at the **root folder**, i.e. Facial_Judgement, before running the following command:
 ```
 pytest -m src.app
 ```
